@@ -1,1 +1,1 @@
-# Pawxurry
+Web-application untuk proyek mata kuliah software engineering. Pawxury adalah online shop yang  menyediakan pemesanan layanan untuk hewan peliharaan dan konsultasi dengan dokter hewan. Konsultasi yang dilakukan bisa dari rumah atau lewat zoom meeting. Website ini sudah rensponsive dan memiliki fitur validasi pada halaman sign-in dan sign up dan menggunakan localstorage untuk menyimpan data. Proyek ini dikerjakan secara berkelompok yang berisi 3 orang di dalam kelompoknya. Diantaranya ada Agnes giovanni Weinata, Sheren Emanuela, dan Valencia Karta.
